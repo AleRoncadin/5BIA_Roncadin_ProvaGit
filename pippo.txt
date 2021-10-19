@@ -1,0 +1,5 @@
+dev
+info.txt
+pippo.txt
+pippo.txt.txt
+README.md
